@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisDistributedCaching", "RedisDistributedCaching\RedisDistributedCaching.csproj", "{1EAC774F-D582-461C-AEEA-BB3D5A7984CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{6933734B-91BA-4DC8-A3A1-288C787CB5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAC774F-D582-461C-AEEA-BB3D5A7984CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAC774F-D582-461C-AEEA-BB3D5A7984CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAC774F-D582-461C-AEEA-BB3D5A7984CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAC774F-D582-461C-AEEA-BB3D5A7984CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6933734B-91BA-4DC8-A3A1-288C787CB5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6933734B-91BA-4DC8-A3A1-288C787CB5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6933734B-91BA-4DC8-A3A1-288C787CB5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6933734B-91BA-4DC8-A3A1-288C787CB5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E23861-3F92-45C2-A297-EAE6CF22E8A0}
+	EndGlobalSection
+EndGlobal
